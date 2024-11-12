@@ -1,6 +1,7 @@
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shattiique) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mashfiqur-shattique-aa120748) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2734841) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle&style=flat)](https://www.kaggle.com/shattique) [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank&style=flat)](https://www.hackerrank.com/profile/shattique) [![Gist]](https://gist.github.com/shattique)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shattiique) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mashfiqur-shattique-aa120748) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2734841) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle&style=flat)](https://www.kaggle.com/shattique) [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank&style=flat)](https://www.hackerrank.com/profile/shattique) [![GitHub Gist](https://img.shields.io/badge/GitHub-Gist-100000?style=flat&logo=github&logoColor=white)](https://gist.github.com/shattique)
+
 
 
 # 💻 Tech Stack:
